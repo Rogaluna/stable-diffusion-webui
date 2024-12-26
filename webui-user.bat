@@ -1,6 +1,6 @@
 @echo off
 
-set PYTHON=D
+set PYTHON=D:\Programs\stable-diffusion-webui\conda\stablediffusion-webui.conda\python.exe
 set GIT=
 set VENV_DIR=
 set COMMANDLINE_ARGS=
